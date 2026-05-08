@@ -1,0 +1,18 @@
+Example for a future forced update:
+
+  {
+    "minimumSupportedVersion": "1.2.0",
+    "latestVersion": "1.3.0",
+    "mode": "hard",
+    "title": "Update Required",
+    "message": "A newer version of Adulting 101 is required to continue using the app."
+  }
+
+Soft update:
+  {
+  "minimumSupportedVersion": "1.0.0",
+  "latestVersion": "1.3.0",
+  "mode": "soft",
+  "title": "Update Available",
+  "message": "A newer version of Adulting 101 is available with improvements and fixes."
+}
