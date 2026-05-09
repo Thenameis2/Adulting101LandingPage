@@ -130,7 +130,7 @@ function Footer() {
                 }}
                 transition={{ delay: 0.75 }}
                 className="font-bold text-primary hover:text-primary/50 lg:whitespace-nowrap"
-                href="/cookies-policy"
+                href="/Support-page"
               >
                 Support Page
               </motion.a>
