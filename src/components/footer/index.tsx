@@ -132,7 +132,7 @@ function Footer() {
                 className="font-bold text-primary hover:text-primary/50 lg:whitespace-nowrap"
                 href="/cookies-policy"
               >
-                Cookies policy
+                Support Page
               </motion.a>
             )}
           </div>

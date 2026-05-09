@@ -20,7 +20,7 @@ const templateConfig: TemplateConfig = {
   footer: {
     legalLinks: {
       termsAndConditions: true,
-      cookiesPolicy: false,
+      cookiesPolicy: true,
       privacyPolicy: true,
     },
     socials: {
@@ -271,73 +271,52 @@ const templateConfig: TemplateConfig = {
   cookiesPolicy: {
     seo: {
       title: "Cookies Policy - Mobile App Landing Template",
-      description: "Cookies Policy",
+      description: "Support page",
     },
-    content: `# Cookies Policy
+    content: `# Support Page
 
-**Effective Date:** [Insert Date]
+## Need Help?
 
-## Introduction
+We're here to help you with any questions, issues, or feedback regarding the app.
 
-This Cookies Policy explains how [Your Company Name] ("we," "our," or "us") uses cookies and similar technologies to recognize you when you visit our app, [Your App Name] (the "App"). It explains what these technologies are and why we use them, as well as your rights to control their use.
+## Frequently Asked Questions
 
-## What Are Cookies?
+### How do I use the app?
+Browse through categories, explore tips, set reminders, and track your progress directly inside the app.
 
-Cookies are small data files that are placed on your device when you visit a website or use an app. Cookies are widely used by online service providers to facilitate and help to make the interaction between users and websites/apps faster and easier, as well as to provide reporting information.
+### Do I need an account?
+No. The app is designed to work without requiring account creation.
 
-### Types of Cookies We Use
+### How do reminders work?
+You can enable notifications and schedule reminders for tips you want to complete later.
 
-We use the following types of cookies in our App:
+### Why am I not receiving notifications?
+Please make sure notifications are enabled for the app in your device settings.
 
-1. **Strictly Necessary Cookies:**  
-   These cookies are essential for you to use some of the features of our App. Without these cookies, some services cannot be provided.
+### How do I report a bug?
+You can contact us using the support information below and include details about the issue you experienced.
 
-2. **Performance and Analytics Cookies:**  
-   These cookies collect information about how users interact with our App, including which pages are visited most often. We use this information to improve how our App works.
+### How do I suggest a feature?
+We welcome feedback and feature suggestions. Reach out anytime using the contact information below.
 
-3. **Functionality Cookies:**  
-   These cookies allow our App to remember choices you make when you use the App, such as remembering your login details or language preference.
+## Troubleshooting
 
-4. **Targeting and Advertising Cookies:**  
-   These cookies are used to deliver advertisements that are relevant to you. They also limit the number of times you see an ad and help measure the effectiveness of advertising campaigns.
+- Restart the app if something is not loading correctly.
+- Make sure your device is running the latest version of iOS.
+- Ensure notifications are enabled if reminders are not appearing.
+- Update the app to the latest version when available.
 
-### Cookies From Third Parties
+## Contact Support
 
-In addition to our own cookies, we may also use various third-party cookies to report usage statistics of the App and to deliver advertisements on and through the App.
+If you need additional help, contact us at:
 
-## How We Use Cookies
+Adulting101
 
-We use cookies to:
+mihiretujackson@gmail.com
 
-- **Remember your login details and preferences.**
-- **Analyze usage patterns and improve the functionality of our App.**
-- **Deliver relevant content and advertisements.**
-- **Understand your preferences based on previous or current App activity.**
+https://adulting101-landing-page.vercel.app/
 
-## Your Choices Regarding Cookies
-
-You have the right to decide whether to accept or reject cookies. You can exercise your cookie preferences by adjusting the settings in your browser. Most browsers allow you to:
-
-- **View what cookies are stored on your device and delete them individually.**
-- **Block third-party cookies.**
-- **Block cookies from particular websites.**
-- **Block all cookies from being set.**
-- **Delete all cookies when you close your browser.**
-
-Please note that if you block or delete cookies, some features of the App may not function properly.
-
-## Changes to This Cookies Policy
-
-We may update this Cookies Policy from time to time. We will notify you of any changes by posting the new Cookies Policy on this page and updating the "Effective Date" above. Your continued use of the App after such changes signifies your acceptance of the revised Cookies Policy.
-
-## Contact Us
-
-If you have any questions or concerns about our use of cookies, please contact us at:
-
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+We typically respond within 1–3 business days.
 `,
   },
   termsAndConditions: {
